@@ -1,0 +1,39 @@
+{
+  "common": {
+    "search": "ရှာဖွေရန်...",
+    "loading": "ဓာတ်ပုံများ ဖွင့်နေသည်...",
+    "noImages": "ဓာတ်ပုံမရှိပါ",
+    "usingDemo": "နမူနာဓာတ်ပုံများ သုံးနေသည်",
+    "failedToLoad": "ဖွင့်၍မရပါ"
+  },
+  "home": {
+    "title": "လယ်ယာမြေစိုက်ပျိုးနည်းလမ်းများ",
+    "scan": {
+      "title": "စကန်ဖတ်ရန်",
+      "description": "ပိုးမွှားများ ကိုရှာဖွေပါ"
+    },
+    "order": {
+      "title": "ယခု ဝယ်မည်",
+      "description": "ပိုးသတ်ဆေးများနှင့်ဓာတ်မြေဩဇာ"
+    },
+    "research": {
+      "title": "လေ့လာရန်",
+      "description": "လယ်ယာမြေစိုက်နည်းလမ်းများ"
+    },
+    "tips": {
+      "sectionTitle": "လယ်ယာမြေစိုက်ပျိုးနည်းလမ်းများ",
+      "soilHealth": {
+        "title": "မြေဆီလွှာ ကျန်းမာရေး",
+        "description": "ကောင်းစွာကြီးထားရန် မြေဆီလွှာ၏ ရေဓာတ်ကို ပုံမှန်စစ်ဆေးပါ"
+      },
+      "watering": {
+        "title": "ရေသွင်း နည်းစနစ်",
+        "description": "မနက်ခင်းရေလောင်းခြင်းဖြင့် အပင်များကို မှိုရောဂါများမှ ကာကွယ်ပါ"
+      },
+      "pestControl": {
+        "title": "Natural Pest Control",
+        "description": "Introduce beneficial insects to your farm"
+      }
+    }
+  }
+}

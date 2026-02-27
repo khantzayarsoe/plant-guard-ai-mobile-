@@ -1,0 +1,39 @@
+{
+  "common": {
+    "search": "Search...",
+    "loading": "Loading images...",
+    "noImages": "No images available",
+    "usingDemo": "Using demo images",
+    "failedToLoad": "Failed to load"
+  },
+  "home": {
+    "title": "How to maintain crops",
+    "scan": {
+      "title": "Scan",
+      "description": "Find pests"
+    },
+    "order": {
+      "title": "Order Now",
+      "description": "Pesticides & Fertilizers"
+    },
+    "research": {
+      "title": "Learn",
+      "description": "Farming methods"
+    },
+    "tips": {
+      "sectionTitle": "Farming Tips",
+      "soilHealth": {
+        "title": "Soil Health",
+        "description": "Regularly check soil moisture for optimal growth"
+      },
+      "watering": {
+        "title": "Watering Techniques",
+        "description": "Water in the morning to prevent fungal diseases"
+      },
+      "pestControl": {
+        "title": "Natural Pest Control",
+        "description": "Introduce beneficial insects to your farm"
+      }
+    }
+  }
+}
